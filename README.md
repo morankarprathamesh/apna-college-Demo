@@ -1,4 +1,4 @@
 # apna-college-Demo
 This is just for practise
 <br>
-Author :- Prathamesh Morankar
+Author :- The Great Prathamesh 
