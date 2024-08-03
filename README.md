@@ -1,4 +1,4 @@
 # apna-college-Demo
 This is just for practise
 <br>
-Author :- The Great Prathamesh 
+Author :- The Great gitPrathamesh 
